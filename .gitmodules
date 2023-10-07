@@ -1,0 +1,6 @@
+[submodule "Project-Iona-Applets"]
+	path = Project-Iona-Applets
+	url = git@github.com:WingEternal/Project-Iona-Applets.git
+[submodule "Project-Iona-Wallpapers"]
+	path = Project-Iona-Wallpapers
+	url = git@github.com:WingEternal/Project-Iona-Wallpapers.git
